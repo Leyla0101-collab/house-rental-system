@@ -37,27 +37,17 @@ A web-based system developed for ISP550 to help users register, log in, upload r
 
 ## Project Structure
 Rental-house-system
-├── index.php
-├── login.php
-├── register.php
-├── logout.php
-├── rental-application.php
-├── upload_income.php
-├── upload_supporting.php
-│
-├── /uploads
-│ ├── income-proof/
-│ ├── supporting-docs/
-│ └── ic/
-│
-├── /assets
-│ ├── css/
-│ ├── js/
-│ └── images/
-│
-└── database.sql
+index.php
+login.php
+register.php
+logout.php
+rental-application.php
+upload_income.php
+upload_supporting.php
+
+/uploads/income-proof, supporting-docs/ic/
+assets/css, js, images
+database.sql
 
 ---
-
-## 📁 Project Structure
 
